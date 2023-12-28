@@ -1,5 +1,28 @@
 ![FRANK OVIEDO](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
+
+ <header class="header" 
+        <nav class="header_nav">
+            <div class="header_nav_logo"><a href="index.html">
+                <span style="--item:1"><Fieldset></Fieldset></span>
+                <span style="--item:2">F</span>
+                <span style="--item:3">R</span>
+                <span style="--item:4">A</span>
+                <span style="--item:5">N</span>
+                <span style="--item:6">K</span>
+                <span style="--item:2">😈</span>
+                <span style="--item:3">O</span>
+                <span style="--item:4">V</span>
+                <span style="--item:5">I</span>
+                <span style="--item:6">E</span>
+                <span style="--item:2">D</span>
+                <span style="--item:3">O</span>
+               </a></div>
+            </div>
+        </nav>
+
+    </header>
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FRANK OVIEDO</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
