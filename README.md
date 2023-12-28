@@ -1,7 +1,7 @@
 ![FRANK OVIEDO](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 
- <header class="header" 
+ <header class="header" >  
         <nav class="header_nav">
             <div class="header_nav_logo"><a href="index.html">
                 <span style="--item:1"><Fieldset></Fieldset></span>
@@ -18,10 +18,16 @@
                 <span style="--item:2">D</span>
                 <span style="--item:3">O</span>
                </a></div>
+            <button class="header_nav_toggle"><i class="fas fa-bars"></i></button>
+            <div class="header_nav_menu">
+                <a href="#home">Home</a>
+                <a href="#sobreMi">Sobre mí</a>
+                <a href="#habilidades">Habilidades</a>
             </div>
         </nav>
 
     </header>
+
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FRANK OVIEDO</h2>
 
