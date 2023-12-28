@@ -18,14 +18,7 @@
                 <span style="--item:2">D</span>
                 <span style="--item:3">O</span>
                </a></div>
-            <button class="header_nav_toggle"><i class="fas fa-bars"></i></button>
-            <div class="header_nav_menu">
-                <a href="#home">Home</a>
-                <a href="#sobreMi">Sobre mí</a>
-                <a href="#habilidades">Habilidades</a>
-            </div>
         </nav>
-
     </header>
 
 
