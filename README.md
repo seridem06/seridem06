@@ -49,11 +49,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://photos.app.goo.gl/Q1HiLhR5VE4Q4nSh7"
-       alt="snake" /></a>
-</div>
 
 
 <!--h2 without bottom border-->
