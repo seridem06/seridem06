@@ -1,3 +1,11 @@
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+
+
+
 ![FRANK OVIEDO](https://photos.app.goo.gl/Q1HiLhR5VE4Q4nSh7)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
