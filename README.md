@@ -1,4 +1,4 @@
-![FRANK OVIEDO](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![FRANK OVIEDO](https://photos.app.goo.gl/Q1HiLhR5VE4Q4nSh7)
 
 
  <header class="header" >  
