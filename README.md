@@ -1,5 +1,5 @@
 
-<a href="https://github.com/seridem06/banner.github.io.git" target="_blank" rel="download org image">![alt README header](https://github.com/seridem06/banner.github.io.git)</a>
+<a href="https://github.com/seridem06/banner.github.io/blob/master/banner.png" target="_blank" rel="download org image">![alt README header](https://github.com/seridem06/banner.github.io/blob/master/banner.png)</a>
 
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FRank Oviedo</h2>
