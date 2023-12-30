@@ -132,8 +132,6 @@
 ----------------------------------------------------------------------
 
 
-
-
 <p align="center">
 
 <a href="https://app.aluracursos.com/user/oviedofrank6"><img src=/></a>
