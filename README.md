@@ -25,7 +25,14 @@
 
  <header class="header" >  
         <nav class="header_nav">
-            <div class="header_nav_logo"><a href="https://app.aluracursos.com/user/oviedofrank6">
+            <div class="header_nav_logo"><a href="https://app.aluracursos.com/user/oviedofrank6"
+                                           color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-style: italic;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: -1PX;
+    padding-left: 25px;
+}>
                 <span style="--item:1"><Fieldset></Fieldset></span>
                 <span style="--item:2">F</span>
                 <span style="--item:3">R</span>
