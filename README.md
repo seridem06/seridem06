@@ -148,7 +148,7 @@
 
 <p align="center">
 
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href=""><img src="https://app.aluracursos.com/user/oviedofrank6"/></a>
 
 </p>
 
