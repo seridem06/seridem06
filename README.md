@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://github.com/seridem06/banner.github.io/blob/master/banner.png)
+![Aditya Vikram Singh Banner](https://github.com/seridem06/banner_01/blob/master/banner.png)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
