@@ -134,7 +134,7 @@
 
 <p align="center">
 
-<a href="https://app.aluracursos.com/user/oviedofrank6"><img src=/></a>
+<a href="https://app.aluracursos.com/user/oviedofrank6"><img src="https://avatars.githubusercontent.com/u/4975968?s=200&v=4">
 
 </p>
 
