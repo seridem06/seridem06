@@ -19,7 +19,7 @@
 
  <header class="header" >  
         <nav class="header_nav">
-            <div class="header_nav_logo"><a href="index.html">
+            <div class="header_nav_logo"><a href="[index.html](https://app.aluracursos.com/user/oviedofrank6)">
                 <span style="--item:1"><Fieldset></Fieldset></span>
                 <span style="--item:2">F</span>
                 <span style="--item:3">R</span>
