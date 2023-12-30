@@ -2,7 +2,7 @@
 <a href="https://github.com/seridem06/banner.github.io/blob/master/banner.png" target="_blank" rel="download org image">![alt README header](https://github.com/seridem06/banner.github.io/blob/master/banner.png)</a>
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FRank Oviedo</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Frank Oviedo -->
 
@@ -12,7 +12,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm FRANK OVIEDO</h1></summary>
+    <summary><h1 style="display: inline-block"></h1></summary>
   </ul>
 </div>
 
