@@ -8,7 +8,6 @@
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+frank+oviedo..&hearts;++;software+design+student,;i+love+computers,;everything+related.,;with+technology+and+coding..<3"></a>
 </p>
 
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2></h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Frank Oviedo -->
@@ -89,11 +88,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<!--horizontal divider(gradiant)-->
 
 </p>        
 <!--- stats (end) -->
