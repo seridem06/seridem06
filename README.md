@@ -25,7 +25,7 @@
 
  <header class="header" >  
         <nav class="header_nav">
-            <div class="header_nav_logo"><a href="https://app.aluracursos.com/user/oviedofrank6">
+            <div class="header_nav_logo"><a href="https://app.aluracursos.com/user/oviedofrank6/fullCertificate/31800fe9ff8455b43e87946f7bfa3fa6">
                 <span style="--item:1"><Fieldset></Fieldset></span>
                 <span style="--item:2">F</span>
                 <span style="--item:3">R</span>
