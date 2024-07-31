@@ -47,6 +47,9 @@
  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
 </div>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<div align="center">
+ <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/grid-snake.svg">
+</div>
 
 
 
