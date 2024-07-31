@@ -44,8 +44,7 @@
     </header>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/raw/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+ <img src="/1999AZZAR/1999AZZAR/raw/readme/resources/grid-snake.svg" alt="snake" style="max-width: 100%;">
 </div>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
