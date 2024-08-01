@@ -49,9 +49,6 @@
 </div>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-<div align="center">
- <img src="https://raw.github.com/seridem06/snake_game/blob/master/index.html">
-</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
